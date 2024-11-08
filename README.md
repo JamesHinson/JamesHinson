@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesHinson
 - 👀 I’m interested in ... Cybersecurity and application programming
-- 🌱 I’m currently learning ... C++, Python, and HTML/CSS & JavaScript
+- 🌱 I’m currently learning ... Python, HTML/CSS, and JavaScript
 - I’m looking to collaborate on nothing at the moment, but advice is greatly appreciated!
 - You can reach me at my email, jamesmasonhinson@gmail.com
 
